@@ -3,7 +3,7 @@
 vue + webpack + webpack-dev-server
 
 #####环境
-   node  v4.4.2
+&emsp;&emsp;node  v4.4.2
   
   
 #####安装&启动
@@ -13,8 +13,8 @@ npm install
 
 # 启动服务
 npm run dev
-或者用webpack-dev-server方式启动
-npm run webpack-dev-server
+
+npm run webpack-dev-server   //webpack-dev-server方式启动
 
 # 发布代码
 npm run build
