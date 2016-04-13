@@ -3,7 +3,7 @@
 vue + webpack + webpack-dev-server
 
 #####环境
-  node  v4.4.2
+   node  v4.4.2
   
   
 #####安装&启动
