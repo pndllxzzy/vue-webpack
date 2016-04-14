@@ -12,6 +12,8 @@
 </template>
 
 <script type="es6">
+  import Highcharts from 'highcharts'
+
   export default {
     props: {
       hcdata: ''

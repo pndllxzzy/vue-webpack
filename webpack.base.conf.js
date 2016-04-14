@@ -1,3 +1,4 @@
+var webpack = require('webpack');
 var path = require('path');
 
 module.exports = {
@@ -48,6 +49,6 @@ module.exports = {
     },
     babel: {
         presets: ['es2015'],
-        plugins: ["transform-runtime"]
+        plugins: ['transform-runtime']
     }
 };
